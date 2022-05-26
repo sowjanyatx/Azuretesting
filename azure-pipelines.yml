@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: ubuntu-latest
+  Sowjanya A
 
 steps:
 - script: echo Hello, world!
@@ -22,4 +22,3 @@ steps:
     orchestratorConnection: 'Con_Orc_Devops'
     processName: 'Devops UI Integration'
     folderName: 'sowjanya adireddi'
-    user: 'txhyd_lap_163\sowjanya adireddy'
